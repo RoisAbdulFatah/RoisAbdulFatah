@@ -84,10 +84,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **ANDTOP** | Web application for digital top-up services using an internal currency system called TopCoin. | PHP, MySQL |
+| **ANDTOP** | Web application for digital top-up services using an internal currency system called TopCoin. | Laravel, PHP, CSS, MySQL |
 | **WebView Application** | Implementation of WebView technology in Android applications using different development approaches. | React Native, MIT App Inventor |
 | **CATSHOP** | Web-based application for managing cat data and related information. | CodeIgniter 3, PHP, MySQL |
-| **To-Do List Application** | Application for managing daily tasks and improving productivity. | Web Technologies |
+| **To-Do List Application** | Application for managing daily tasks and improving productivity. | Cloud Server |
 
 ---
 
