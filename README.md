@@ -108,16 +108,13 @@ Here are some projects I've worked on during my academic journey and personal de
 
 <div align="center">
 
-<a href="https://github.com/RoisAbdulFatah">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RoisAbdulFatah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/RoisAbdulFatah">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoisAbdulFatah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RoisAbdulFatah&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoisAbdulFatah&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=RoisAbdulFatah&theme=tokyonight&hide_border=true&background=0D1117" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=RoisAbdulFatah&theme=tokyonight&hide_border=true" />
 
 </div>
 
