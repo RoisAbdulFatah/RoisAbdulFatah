@@ -108,10 +108,6 @@ Here are some projects I've worked on during my academic journey and personal de
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RoisAbdulFatah&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoisAbdulFatah&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=RoisAbdulFatah&theme=tokyonight&hide_border=true" />
