@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Undergraduate student in **Informatics Engineering (Teknik Informatika) Langlangbuana University**.
+- 🎓 Undergraduate student in **Informatics Engineering (Teknik Informatika) at Langlangbuana University**.
 - 💻 Interested in **Software Development, Web Development, and Mobile Application Development**.
 - 🚀 Exploring different technologies to develop practical and useful applications.
 - 🔍 Interested in problem-solving, system design, and writing structured code.
@@ -56,6 +56,7 @@
 <br/>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -64,6 +65,7 @@
 <br/>
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![MIT App Inventor](https://img.shields.io/badge/MIT_App_Inventor-CC6600?style=for-the-badge&logo=mitappinventor&logoColor=white)
 
 **Tools & Development Environment**
@@ -82,13 +84,21 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **ANDTOP** | Web application for digital top-up services using an internal currency system called TopCoin. | Laravel, PHP, CSS, MySQL |
-| **WebView Application** | Implementation of WebView technology in Android applications using different development approaches. | React Native, MIT App Inventor |
-| **CATSHOP** | Web-based application for managing cat data and related information. | CodeIgniter 3, PHP, MySQL |
-| **To-Do List Application** | Application for managing daily tasks and improving productivity. | React Native, Cloud Server, Expo |
-| **TicTacToe Application** | Interactive mobile game featuring a two-player Tic-Tac-Toe experience | React Native, Expo, JavaScript |
+| Project | Description | Tech Stack | Demo |
+| :--- | :--- | :--- | :--- |
+| **ANDTOP** | Web application for digital top-up services using an internal currency system called TopCoin. | Laravel, PHP, CSS, MySQL | [Live Demo](https://websiteandtop.infinityfreeapp.com) |
+| **M-Tugas** | A task management app with role-based access (Admin, Manager, User), an approval workflow, task history, and Excel/PDF export. | Laravel, MySQL | — |
+| **WebView Application** | Implementation of WebView technology in Android applications using different development approaches. | React Native, MIT App Inventor | — |
+| **CATSHOP** | Web-based application for managing cat data and related information. | CodeIgniter 3, PHP, MySQL | — |
+| **To-Do List Application** | Application for managing daily tasks and improving productivity. | React Native, Cloud Server, Expo | — |
+| **TicTacToe Application** | Interactive mobile game featuring a two-player Tic-Tac-Toe experience. | React Native, Expo, JavaScript | — |
+
+---
+
+### 🏆 Experience & Activities
+
+- 🎤 **Assistant Moderator** — International Conference on ICT for Smart Society (ICISS) 2025.
+- 💡 **Participant** — Program Kreativitas Mahasiswa – (Smart Inclusive-Bin with IoT (SIB-OT)) Karsa Cipta (PKM-KC) 2026.
 
 ---
 
