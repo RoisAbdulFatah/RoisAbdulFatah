@@ -1,118 +1,123 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rois%20Abdul%20Fatah&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Informatics%20Engineering%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=55&descSize=14" width="100%" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Rois Abdul Fatah - Developer Portfolio" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Informatics+Engineering+Student;Aspiring+Software+Developer;Web+%26+Mobile+Application+Development;Always+Learning+and+Building+Something+New" alt="Typing SVG" />
+<br/>
+
+### ROIS ABDUL FATAH
+**Informatics Engineering Student | Aspiring Software Developer**
+
+*Building solutions through code, creativity, and continuous learning.*
+
+<br/>
+
+<a href="mailto:roisabdulfatah3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/RoisAbdulFatah">
+  <img src="https://img.shields.io/badge/GitHub-Visit_Profile-1E293B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RoisAbdulFatah&label=PROFILE+VIEWS&color=0EA5E9&style=flat-square)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hello! I'm **Rois Abdul Fatah**, an undergraduate Informatics Engineering student at **Langlangbuana University**.
+
+I'm passionate about exploring technology and developing software solutions, particularly in web and mobile application development.
+
+- 🎓 Studying Informatics Engineering at Langlangbuana University.
+- 💻 Exploring software engineering and application development.
+- 🌐 Interested in building functional and user-oriented web applications.
+- 📱 Exploring mobile development with React Native.
+- 🧩 Enjoy solving problems and learning how systems work.
+- 🚀 Continuously improving my skills through academic projects and independent learning.
+
+My goal is to turn ideas into practical applications while growing into a well-rounded software developer.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
 <p>
-  <a href="mailto:roisabdulfatah3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/RoisAbdulFatah">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,js,java,python" />
 </p>
 
-</div>
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,laravel,codeigniter" />
+</p>
+
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/MIT_App_Inventor-CC6600?style=flat-square&logo=mitappinventor&logoColor=white" />
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio" />
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 Featured Projects
 
-- 🎓 Undergraduate student in **Informatics Engineering (Teknik Informatika) at Langlangbuana University**.
-- 💻 Interested in **Software Development, Web Development, and Mobile Application Development**.
-- 🚀 Exploring different technologies to develop practical and useful applications.
-- 🔍 Interested in problem-solving, system design, and writing structured code.
-- 🛠️ Building projects to improve my technical skills and development experience.
-- 📚 Committed to continuous learning and improving as a software developer.
+Here are some projects I've worked on during my academic journey and personal development.
+
+| Project | Description | Technologies |
+|:---|:---|:---|
+| **ANDTOP** | Digital top-up platform featuring an internal currency system called TopCoin. | PHP, Laravel, MySQL, CSS |
+| **M-Tugas** | Task management system with role-based access, approval workflows, task history, and Excel/PDF exports. | Laravel, MySQL |
+| **WebView Application** | Android WebView implementation using different mobile development approaches. | React Native, MIT App Inventor |
+| **CATSHOP** | Web-based application for managing cat data and related information. | CodeIgniter 3, PHP, MySQL |
+| **To-Do List** | Mobile application for organizing and managing daily activities. | React Native, Expo |
+| **TicTacToe** | Interactive two-player Tic-Tac-Toe mobile game. | React Native, JavaScript, Expo |
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🏆 Experience & Activities
+
+**Assistant Moderator**  
+*International Conference on ICT for Smart Society (ICISS) 2025*
+
+- Participated as an assistant moderator in an international academic conference.
+
+**PKM-KC Participant**  
+*Smart Inclusive-Bin with IoT (SIB-OT) — 2026*
+
+- Participated in a student innovation project focused on developing an inclusive smart waste bin using Internet of Things technology.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-**Programming Languages**
-
-<br/>
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frontend Development**
-
-<br/>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend & Database**
-
-<br/>
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Mobile Development**
-
-<br/>
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![MIT App Inventor](https://img.shields.io/badge/MIT_App_Inventor-CC6600?style=for-the-badge&logo=mitappinventor&logoColor=white)
-
-**Tools & Development Environment**
-
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Demo |
-| :--- | :--- | :--- | :--- |
-| **ANDTOP** | Web application for digital top-up services using an internal currency system called TopCoin. | Laravel, PHP, CSS, MySQL | [Live Demo](https://websiteandtop.infinityfreeapp.com) |
-| **M-Tugas** | A task management app with role-based access (Admin, Manager, User), an approval workflow, task history, and Excel/PDF export. | Laravel, MySQL | — |
-| **WebView Application** | Implementation of WebView technology in Android applications using different development approaches. | React Native, MIT App Inventor | — |
-| **CATSHOP** | Web-based application for managing cat data and related information. | CodeIgniter 3, PHP, MySQL | — |
-| **To-Do List Application** | Application for managing daily tasks and improving productivity. | React Native, Cloud Server, Expo | — |
-| **TicTacToe Application** | Interactive mobile game featuring a two-player Tic-Tac-Toe experience. | React Native, Expo, JavaScript | — |
-
----
-
-### 🏆 Experience & Activities
-
-- 🎤 **Assistant Moderator** — International Conference on ICT for Smart Society (ICISS) 2025.
-- 💡 **Participant** — Program Kreativitas Mahasiswa – (Smart Inclusive-Bin with IoT (SIB-OT)) Karsa Cipta (PKM-KC) 2026.
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
+<a href="https://github.com/RoisAbdulFatah">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RoisAbdulFatah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/RoisAbdulFatah">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoisAbdulFatah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=RoisAbdulFatah&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=RoisAbdulFatah&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+<img src="https://streak-stats.demolab.com?user=RoisAbdulFatah&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -120,10 +125,14 @@
 
 <div align="center">
 
-### 💡 Development Philosophy
+### 💡 Beyond the Code
 
-*"Great software is not just about writing code, but about understanding problems and building meaningful solutions."*
+*"Great software begins with understanding the problem, not just writing the code."*
 
-**Keep Learning. Keep Building. Keep Improving.**
+**Think. Build. Learn. Improve.**
+
+<br/>
+
+<sub>Thanks for visiting my profile! Feel free to explore my repositories.</sub>
 
 </div>
