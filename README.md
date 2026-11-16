@@ -95,9 +95,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RoisAbdulFatah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoisAbdulFatah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=RoisAbdulFatah&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=RoisAbdulFatah&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
